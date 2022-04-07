@@ -10,3 +10,11 @@ for i in list1:
         list2.pop()
         sum += i * j
 print(sum)
+
+
+# # 출력 결과
+# 3
+# 1
+# 5
+# 6
+# 41
